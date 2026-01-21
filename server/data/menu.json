@@ -1,0 +1,174 @@
+{
+  "categories": [
+    {
+      "id": "cat-1",
+      "name": "Hot Drinks",
+      "icon": "☕",
+      "order": 1
+    },
+    {
+      "id": "cat-2",
+      "name": "Cold Drinks",
+      "icon": "🧊",
+      "order": 2
+    },
+    {
+      "id": "cat-3",
+      "name": "Pastries",
+      "icon": "🥐",
+      "order": 3
+    },
+    {
+      "id": "cat-4",
+      "name": "Sandwiches",
+      "icon": "🥪",
+      "order": 4
+    }
+  ],
+  "items": [
+    {
+      "id": "item-1",
+      "categoryId": "cat-1",
+      "name": "Espresso",
+      "description": "Rich and bold single shot of premium espresso",
+      "price": 3.5,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "item-2",
+      "categoryId": "cat-1",
+      "name": "Cappuccino",
+      "description": "Espresso with steamed milk and velvety foam",
+      "price": 4.5,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "item-3",
+      "categoryId": "cat-1",
+      "name": "Latte",
+      "description": "Smooth espresso with creamy steamed milk",
+      "price": 4.75,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "item-4",
+      "categoryId": "cat-1",
+      "name": "Mocha",
+      "description": "Espresso with chocolate and steamed milk, topped with whipped cream",
+      "price": 5.25,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "item-5",
+      "categoryId": "cat-1",
+      "name": "Americano",
+      "description": "Espresso diluted with hot water for a smooth taste",
+      "price": 3.75,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "item-6",
+      "categoryId": "cat-2",
+      "name": "Iced Latte",
+      "description": "Chilled espresso with cold milk over ice",
+      "price": 5,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "item-7",
+      "categoryId": "cat-2",
+      "name": "Iced Mocha",
+      "description": "Cold chocolate espresso with milk and ice",
+      "price": 5.5,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "item-8",
+      "categoryId": "cat-2",
+      "name": "Cold Brew",
+      "description": "Slow-steeped for 20 hours, smooth and refreshing",
+      "price": 4.5,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "item-9",
+      "categoryId": "cat-2",
+      "name": "Frappe",
+      "description": "Blended iced coffee with milk and cream",
+      "price": 5.75,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "item-10",
+      "categoryId": "cat-3",
+      "name": "Butter Croissant",
+      "description": "Flaky, buttery French croissant baked fresh daily",
+      "price": 3.25,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "item-11",
+      "categoryId": "cat-3",
+      "name": "Chocolate Muffin",
+      "description": "Rich chocolate muffin with chocolate chips",
+      "price": 3.5,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "item-12",
+      "categoryId": "cat-3",
+      "name": "Cinnamon Roll",
+      "description": "Warm cinnamon roll with cream cheese frosting",
+      "price": 4,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "item-13",
+      "categoryId": "cat-4",
+      "name": "Turkey Club",
+      "description": "Roasted turkey, bacon, lettuce, tomato on toasted bread",
+      "price": 8.5,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "item-14",
+      "categoryId": "cat-4",
+      "name": "Grilled Cheese",
+      "description": "Classic melted cheddar on butter-grilled sourdough",
+      "price": 6.5,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "item-15",
+      "categoryId": "cat-4",
+      "name": "Avocado Toast",
+      "description": "Fresh avocado on artisan toast with cherry tomatoes",
+      "price": 7.5,
+      "image": "",
+      "available": true
+    },
+    {
+      "id": "item-4c615c2d",
+      "categoryId": "cat-1",
+      "name": "Turkish Coffee",
+      "description": "Strong traditional coffee",
+      "price": 4,
+      "image": "",
+      "available": true
+    }
+  ]
+}
